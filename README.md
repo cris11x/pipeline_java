@@ -1,5 +1,6 @@
+## Procesos de Desarrollo de Software
 
-# Spring Boot Pipeline And Docker
+**GESTIÓN DE LA CONFIGURACIÓN**
 
-# pipeline_java
-
+- Nombre: Christian David Fajardo
+- Codigo: 30000132844
